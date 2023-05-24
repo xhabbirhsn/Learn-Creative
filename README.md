@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='https://github.com/xhabbirhsn/Images/assets/68703310/03e6eb58-82ee-47c4-9c4a-6e6e3bce0734'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/xhabbirhsn/Learn-Creative/assets/68703310/122735af-333b-44a7-b8af-090f338612ee'/></div>
 
 <h2>About the project</h2>
 
@@ -9,7 +9,7 @@
 <h3>Build with:</h3>
 
 » Sass / Scss <br>
-» React JS
+» React JS <br>
 » Firebase
 
 <h2>Screenshots of the Project 📸</h2>
@@ -17,6 +17,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/xhabbirhsn/Images/assets/68703310/da362990-cd87-43f1-bb9f-098ddf4457d8'/>
+<img src='https://github.com/xhabbirhsn/Learn-Creative/assets/68703310/736b9721-4f08-490d-8a51-fe56d9bb5bc1'/>
 
 </div>
